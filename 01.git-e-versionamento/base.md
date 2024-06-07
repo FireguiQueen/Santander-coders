@@ -1,4 +1,4 @@
-# Versionamento
+# Versionamento de código
 
 ## Desenvolvimento em conjunto 
 
