@@ -21,6 +21,11 @@ ___________
 
 # O que é Git? 
 Git é uma das ferramentas para versionar seu código, sendo ela a mais utilizada entre todas. 
-O Git guarda versões do estado do seu projeto em snapshots (como fotos) e cria referências para acessar essas fotos. 
+O Git guarda versões do estado do seu projeto em snapshots (como fotos) e cria referências para acessar essas fotos. Pois não adiantaria nada salvar o estado de y versão se não há uma referencia (um caminho) para acessar ela.
 
-## Git e github são mesma coisa? 
+Com o Git, você pode manter um histórico detalhado de todas as alterações feitas no projeto. Isso é essencial para rastrear mudanças, identificar bugs e entender a evolução do código ao longo do tempo. 
+
+O Git armazena o estado do seu projeto em snapshots, que funcionam como fotografias de um momento específico no tempo. Cada snapshot é uma captura completa de todos os arquivos em um dado momento, e cada um deles é referenciado de maneira única por um hash SHA-1. Isso permite que você acesse qualquer versão anterior do seu projeto de forma rápida e precisa.
+
+## Colobaração
+O Git foi projetado para suportar o trabalho colaborativo. Ferramentas como GitHub, GitLab e Bitbucket, que são plataformas baseadas no Git, oferecem recursos adicionais como pull requests, code reviews e integração contínua, que facilitam ainda mais a colaboração entre equipes distribuídas.
