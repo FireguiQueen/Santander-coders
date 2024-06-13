@@ -58,5 +58,9 @@ Entender essas duas linhas é bem simples:
 
 ![terminal-git-config](../others/images/terminal-git-config.png)
 
+E então, finalmente podemos criar nosso repositório git.
+![terminal-git-init](../others/images/terminal-git-init.png)
+
+
 # Clonando um repositório 
 Clonar um 
