@@ -62,5 +62,10 @@ E então, finalmente podemos criar nosso repositório git.
 ![terminal-git-init](../others/images/terminal-git-init.png)
 
 
-# Clonando um repositório 
-Clonar um 
+## Clonando um repositório 
+Existem formas e formas de se clonar um repositório, mas, umas das principais, utilizando o Github, é
+pegar a URL do reposítorio, ir no terminal e digitar `git clone [url]`.
+
+![github-clone](../others/images/github-clone.png)
+
+![terminal-git-clone](../others/images/terminal-git-clone.png)
