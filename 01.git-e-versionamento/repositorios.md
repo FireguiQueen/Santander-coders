@@ -56,7 +56,7 @@ Entender essas duas linhas é bem simples:
 4. `user.name / user.email` - aqui utilizamos para definir nosso nome e email. 
 5. `[....]` - seu nome e email serão colocados aqui. 
 
-[terminal-git-config](../others/images/terminal-git-config.png)
+![terminal-git-config](../others/images/terminal-git-config.png)
 
 # Clonando um repositório 
 Clonar um 
