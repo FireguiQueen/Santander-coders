@@ -7,7 +7,6 @@ Para entender mais melhore, considere um software na versão **2.0.5** que apres
 ## Importância
 É importante observar que alterações significativas no código resultam em uma nova versão do software. Esse procedimento é crucial, pois, caso a nova versão apresente bugs ou problemas mais graves, **temos a capacidade de retroceder para versões anteriores**.
 
-
 ## Desenvolvimento em conjunto 
 O versionamento de código vai além de permitir o retrocesso a versões anteriores. Ele é extremamente útil no desenvolvimento colaborativo de software, onde dois ou mais desenvolvedores estão envolvidos.
 
