@@ -1,3 +1,5 @@
+# Comandos locais
+
 ## `add`
 
 ## `status`
@@ -9,5 +11,15 @@
 ## `log`
 
 ## `restore`
+
+_______
+
+# Comandos remotos 
+
+## `push`
+
+## `fetch`
+
+## `pull`
 
 
