@@ -34,7 +34,7 @@ Cada repositório pode ter uma estrutura diferente, podendo ser completamente or
     ├── main.js
     ├── background.png
     ├── JAPANESE_2020.otf
-    ├── poker-chip.png
+    └──poker-chip.png
 ```
 > Todos os arquivos do website estão em um único nível de documento, todos no mesmo diretório (pasta), o que resulta em um repositório completamente desorganizado.
 
