@@ -64,8 +64,8 @@ Então, finalmente podemos criar nosso repositório Git.
 
 
 ## Clonando um repositório 
-Existem formas e formas de se clonar um repositório, mas, umas das principais, utilizando o Github, é
-pegar a URL do reposítorio, ir no terminal e digitar `git clone [url]`.
+Existem diferentes formas de clonar um repositório, mas uma das principais, **utilizando o GitHub**, 
+é copiar a URL do repositório, acessar seu terminal, e digitar `git clone [URL]`.
 
 ![github-clone](../others/images/github-clone.png)
 
