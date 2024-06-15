@@ -43,14 +43,25 @@ O comando log nos mostra os registros de todos os commits feitos no repositório
 ## `restore`
 Com o restore podemos restaurar, ou "voltar", a versões anteriores do projeto.
 
+Para ver isso, podemos utilizar `git log` para ver todos os nossos commits feitos.
+
+![terminal-git-log](../others/images/terminal-git-log.png)
+
+E também, podemos adicionar `--oneline` para mostrar tudo em apenas uma única linha.
+
+![terminar-git-log-oneline](../others/images/terminal-git-log-oneline.png)
+
+
 _______
 
 # Comandos remotos 
 
 ## `push`
+Usado para **empurrar** modificações no repositório local para o repositório remoto.
 
 ## `fetch`
+Utilizado para baixar dados do repositório remoto, mas sem integrar essas mudanças ao seu repositório local. Após o fetch, somos capazes de utilizar o comando `diff` para ver as diferenças entre o repositório remoto e o local.
 
 ## `pull`
+Utilizado para **puxar** nosso repositório remoto, baixando todas as alterações feitas nele para o nosso repositório local. Geralmente, o fetch é utilizado antes para ver quais mudanças você está puxando.
 
--
